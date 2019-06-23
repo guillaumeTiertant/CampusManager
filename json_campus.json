@@ -1,0 +1,40 @@
+{
+    "state": "Montpellier",
+    "city": "Herault",
+    "capacity": "7",
+    "studentsList": [
+        {
+            "firstName": "Eric",
+            "lastName": "Clapton",
+            "id": "0"
+        },
+        {
+            "firstName": "Eric",
+            "lastName": "Clapton",
+            "id": "6"
+        }
+    ],
+    "teachersList": [
+        {
+            "firstName": "Jeanne",
+            "lastName": "Cheral",
+            "id": "2",
+            "wage": "2600",
+            "type": "external"
+        },
+        {
+            "firstName": "Bill",
+            "lastName": "Gates",
+            "id": "0",
+            "wage": "1800",
+            "type": "external"
+        },
+        {
+            "firstName": "Louis",
+            "lastName": "Blanc",
+            "id": "3",
+            "wage": "0",
+            "type": "internal"
+        }
+    ]
+}
